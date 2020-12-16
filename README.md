@@ -11,4 +11,4 @@ TODO: Write code
 ## Pictures
 TODO: Take pictures
 ## CSS
-TODO: Code the CSS
+TODO: Code CSS
